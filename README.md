@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cryptocurrency
 - 🌱 I’m currently learning about the Blockchain
 - 💞️ I’m looking to collaborate on any Blockchain work
-- 📫 How to reach me blessededison410b@gmail.com
+- 📫 How to reach me blisadoedison@gmail.com
 
 <!---
 Blisado1/Blisado1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
